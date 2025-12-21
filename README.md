@@ -4,7 +4,7 @@ Connectify is a modern, fast, and responsive real-time chat application built us
 
 ---
 
-## 🚀 **About the Project**
+## **About the Project**
 
 Connectify aims to provide a clean, elegant, and intuitive platform for real-time communication. Inspired by modern chat interfaces, the system focuses on speed, simplicity, and usability. It uses WebSocket technology to support instant messaging, along with a fully-responsive frontend and a secure backend architecture.
 
@@ -12,32 +12,32 @@ The project showcases real-time bi-directional communication between users, comp
 
 ---
 
-## ✨ **Key Features**
+## **Key Features**
 
-### 🔐 **User Authentication**
+### **User Authentication**
 - Secure login and signup system  
 - JWT-based authentication  
 - Input validation and error handling  
 - Password encryption for enhanced security  
 
-### 💬 **Real-Time Messaging**
+### **Real-Time Messaging**
 - Instant message delivery using Socket.io  
 - Live chat updates without page reload  
 - Auto-synchronized messages across users  
 - Smooth and fluid chat interactions  
 
-### 👥 **User Interface**
+### **User Interface**
 - Sleek, modern dark-theme UI  
 - Designed with Tailwind CSS + DaisyUI  
 - Fully responsive layout for mobile and desktop  
 - Minimalistic and user-friendly design  
 
-### ⚡ **Performance**
+### **Performance**
 - WebSocket-based communication for real-time speed  
 - Lightweight React frontend powered by Vite  
 - Efficient state management using Zustand  
 
-### 🗂️ **Chat Experience**
+### **Chat Experience**
 - Dedicated chat window  
 - Interactive user list  
 - Real-time updates  
@@ -45,7 +45,7 @@ The project showcases real-time bi-directional communication between users, comp
 
 ---
 
-## 🎯 **Purpose of the Project**
+## **Purpose of the Project**
 
 Connectify is designed to demonstrate real-world, production-level features such as authentication, real-time messaging, UI design principles, and full-stack integration.  
 It is suitable for:
