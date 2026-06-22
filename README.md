@@ -53,3 +53,6 @@ It is suitable for:
 - MERN stack learning  
 - Socket.io exploration  
 - Real-time application development practice  
+
+## **Live Link of the Project**
+https://connectify-amber-one.vercel.app/
